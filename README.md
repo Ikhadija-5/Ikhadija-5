@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Khadija Iddrisu. 🌱I’m currently studying for a masters in Machine Learning at AIMS Senegal. I also have a masters in mathematical science from AIMS Ghana.👯I’m looking to collaborate on developing machine learning algorithms that can be used for diagnosis of brain diseases.Specifically on projects regarding computer vision and vessel segmentation.  💬Ask me about  anything on Twitter: @iddrisukhadija4. ⚡ Fun fact: I love binge watching movies,music, touring and photography.
+My name is Khadija Iddrisu. 🌱I am a PhD student at the Insight SFI Centre for Data Analytics at DCU. I also have a masters in mathematical science from AIMS Ghana and wrapping up for a masters in Machine Intelligence at the African Masters of Machine Intelligence Program.👯I’m looking to collaborate on developing machine learning algorithms that can be used for diagnosis of brain diseases.Specifically on projects regarding computer vision and vessel segmentation.  💬Ask me about  anything on Twitter: @iddrisukhadija4. ⚡ Fun fact: I love binge watching movies,music, touring and photography.
 
 <!-- **Ikhadija-5/Ikhadija-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
